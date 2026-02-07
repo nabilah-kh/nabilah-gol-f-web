@@ -8,3 +8,4 @@ Route::get('/', function () {
 
 // update buat tugas framework web
 // update kedua buat tugas framework web
+// hallo :>
